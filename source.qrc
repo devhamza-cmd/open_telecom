@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>56805.png</file>
+    <file>payment-icon-5646.png</file>
+    <file>home.png</file>
+    <file>gamer.png</file>
+    <file>store_10.jpg</file>
+    <file>store_9.jpg</file>
+    <file>background.jpg</file>
+  </qresource>
+</RCC>
